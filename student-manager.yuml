@@ -1,0 +1,14 @@
+[Administrator]-(Add Student)
+[Administrator]-(Remove Student)
+[Administrator]-(Update Student)
+[Faculty]-(View Student Info)
+
+(Add Student)>(Enter Details)
+(Add Student)>(Verify Uniqueness)
+(Remove Student)>(Find Student)
+(Remove Student)>(Confirm Deletion)
+(Update Student)>(Edit Details)
+(Update Student)>(Save Changes)
+
+(View Student Info)>(Search Student)
+(View Student Info)>(Generate Report)
